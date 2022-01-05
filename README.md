@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1u2wWuPfb327AHGi8WRCTMiVxmIRPrUHg?usp=sha
 
 ### Training from scratch
 ```bash
-$ python train.py --data path/to/train
+$ python train.py -v --eta 10 --save_model_path path/to/save --data path/to/train
 ```
 
 ### Testing
