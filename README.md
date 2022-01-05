@@ -25,6 +25,9 @@ https://drive.google.com/drive/folders/1u2wWuPfb327AHGi8WRCTMiVxmIRPrUHg?usp=sha
 ```bash
 $ python train.py -v --eta 10 --save_model_path path/to/save --data path/to/train
 ```
+* -v: save vae result
+* --eta: Ltotal = Ltask + \eta * Lreconstruction
+* --lamda: Lconstruction = Lmse + \lamda * Lkl
 
 ### Testing
 ```bash
