@@ -13,7 +13,7 @@ Torch: 21.08+
 # How to use
 ### Download the pretrained models
 ```bash
-$ bash download.sh
+https://drive.google.com/drive/folders/1u2wWuPfb327AHGi8WRCTMiVxmIRPrUHg?usp=sharing
 ```
 
 ### Training from scratch
