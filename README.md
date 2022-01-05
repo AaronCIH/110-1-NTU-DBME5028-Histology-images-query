@@ -10,6 +10,11 @@ OS : Ubuntu 16.04 \
 Language: Python37
 Torch: 21.08+
 
+## Introduction
+### Processing
+![image](https://user-images.githubusercontent.com/91179422/148181849-4ace6b30-1bd5-454a-9c81-e63f76bf8ee9.png)
+****
+
 # How to use
 ### Download dataset in Kaggle
 https://www.kaggle.com/c/histology-images-query-competition/data
