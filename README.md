@@ -14,9 +14,9 @@ Torch: 21.08+
 ### Processing
 ![image](https://user-images.githubusercontent.com/91179422/148181849-4ace6b30-1bd5-454a-9c81-e63f76bf8ee9.png)
 ****
-### Model
+### Model (VAE + BYOL)
 ![image](https://user-images.githubusercontent.com/91179422/148184336-cc07787f-f19d-454c-a2da-eab6f57cef6f.png)
-
+****
 
 # How to use
 ### Download dataset in Kaggle
